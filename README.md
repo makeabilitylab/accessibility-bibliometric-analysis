@@ -1,2 +1,2 @@
 # accessibility-bibliometric-analysis
-A bibliometric analysis of citation diversity in accessibility and HCI research
+A bibliometric analysis of citation diversity in accessibility and HCI research. This is a complement to the [Mack *et al.* CHI2021 paper](https://makeabilitylab.cs.washington.edu/media/publications/Mack_WhatDoWeMeanByAccessibilityResearchALiteratureSurveyOfAccessibilityPapersInChiAndAssetsFrom1994To2019_CHI2021.pdf), which has it's own [GitHub repo here](https://github.com/makeabilitylab/accessibility-literature-survey).
