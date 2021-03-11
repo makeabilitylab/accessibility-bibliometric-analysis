@@ -1,0 +1,5 @@
+pandas==1.1.5
+numpy==1.16.4
+cycler==0.10.0
+matplotlib==3.0.3
+seaborn==0.11.1
