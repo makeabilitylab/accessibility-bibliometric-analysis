@@ -1,0 +1,6 @@
+pandas
+numpy
+cycler
+matplotlib
+seaborn
+tqdm

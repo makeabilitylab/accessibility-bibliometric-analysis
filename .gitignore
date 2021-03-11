@@ -1,0 +1,4 @@
+.idea/
+biblio.egg-info/
+biblio/__pycache__/
+biblio/utils/__pycache__/
