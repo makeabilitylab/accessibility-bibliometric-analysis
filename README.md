@@ -1,6 +1,7 @@
 # Accessibility bibliometric analysis
 This repo contains scripts and data for reproducing the bibliometric analysis of citation diversity in accessibility and HCI research conducted in Wang LL *et al.*, our CHI LBW 2021 [paper](https://makeabilitylab.cs.washington.edu/media/publications/Wang_ABibliometricAnalysisOfCitationDiversityInAccessibilityAndHciResearch_EXTENDEDABSTRACTSOFCHI2021.pdf). 
 
+> Lucy Lu Wang, Kelly Mack, Emma J McDonnell, Dhruv Jain, Leah Findlater, and Jon E. Froehlich. 2021. A bibliometric analysis of citation diversity in accessibility and HCI research. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, Article 448, 1–7. DOI:https://doi.org/10.1145/3411763.3451618
 
 This work is a complement to the [Mack *et al.* CHI 2021 paper](https://makeabilitylab.cs.washington.edu/media/publications/Mack_WhatDoWeMeanByAccessibilityResearchALiteratureSurveyOfAccessibilityPapersInChiAndAssetsFrom1994To2019_CHI2021.pdf), which has it's own [GitHub repo here](https://github.com/makeabilitylab/accessibility-literature-survey).
 
